@@ -1,1 +1,1 @@
-# ubuntu ベースの storage 用 dockerfile
+# ubuntu で構築したストレージ用 Dockerfile
